@@ -69,12 +69,6 @@ My earlier **full-stack development training** helps me understand how frontend 
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hazemelsayed242&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Most used languages across Hazem's GitHub repositories" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hazemelsayed242&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4" alt="Hazem's GitHub trophies" />
-</p>
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
